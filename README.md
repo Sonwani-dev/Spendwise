@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -257,3 +258,6 @@ Create a `.env` file inside the server folder and add the required environment v
 
 Developed using the MERN Stack for efficient and organized expense management.
 >>>>>>> 38eae6d563b03ff7b61c8352e55869e1b9f6971c
+=======
+# Spendwise
+>>>>>>> e4cf1bf125995960806dac7e3daf4c5f44b8f600
